@@ -5,5 +5,5 @@
 - 👯 Pretendo atuar em automações e Análise de Dados (Data Science) com Python.
 - 📫 Contate-me no email: gabrielstanzis@gmail.com
 - 😄 Pronomes: ele/dele.
-- 
+
 ### Obrigado! :)
